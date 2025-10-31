@@ -33,4 +33,4 @@ A comprehensive web-based library management system with separate student and ad
 ### Installation
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/library-management-system.git
+git clone https://github.com/chandrika224/library-management-system.git
